@@ -1,25 +1,36 @@
-"""# Jurassic Park - Página Informativa
+🎬 Jurassic Park
 
-Este repositório contém uma página web simples em HTML5 dedicada a apresentar informações básicas e a sinopse do clássico filme **Jurassic Park** (1993), dirigido por Steven Spielberg.
+👨‍💻 Aluno
+Giovanni Allevi
 
----
+📚 Curso/Turma
+Desenvolvimento de Sistemas — 1IE
 
-## 📌 Sobre o Projeto
+🎯 Objetivo do Projeto
+O objetivo deste projeto é fazer com que os alunos demonstrem uma representação das habilidades estudadas de HTML durante as aulas, colocando em prática os conhecimentos adquiridos na criação de uma página web.
 
-O projeto é uma página institucional/informativa simples que exibe dados principais sobre o filme, como data de lançamento, direção, duração, classificação indicativa, gênero, país de origem e sinopse, além de uma imagem promocional com a devida indicação da fonte.
+🛠️ Tecnologias Utilizadas
+HTML
+Visual Studio Code (VS Code)
 
----
+📌 Descrição da Página
+A página desenvolvida apresenta uma breve descrição do filme "Jurassic Park" em formato de cartaz.
+Nela, serão apresentadas as principais informações sobre o filme, como:
 
-## 🛠️ Tecnologias Utilizadas
+🎬 Título: Jurassic Park
 
-- **HTML5**: Estruturação semântica do conteúdo.
+📅 Lançamento: 11 junho de 1993
 
----
+🎥 Direção: Steven Spielberg
 
-## 📂 Estrutura de Arquivos
+⏱️ Duração: 2 horas e 7 minutos
 
-```text
-.
-├── index.html          # Arquivo principal contendo a estrutura da página
-└── img/
-    └── img.jpg         # Imagem promocional/capa do filme
+🔞 Classificação: maiores de 10 anos
+
+🎭 Gênero: ficção científica, aventura e ação/suspense
+
+🌎 Pais de origem: Estados Unidos
+
+📝 Sinopse: 
+
+Um bilionário cria um parque isolado com dinossauros vivos clonados a partir de DNA pré-histórico. Antes da abertura, especialistas e seus netos visitam o local para uma inspeção. Contudo, falhas de segurança e sabotagem fazem os sistemas caírem, e os dinossauros escapam, forçando todos a lutarem por suas vidas.
